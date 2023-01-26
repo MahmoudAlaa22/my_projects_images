@@ -8,3 +8,6 @@
 ![qurani_pro](https://user-images.githubusercontent.com/60518534/213766435-36e6d6c6-1a67-44e8-9f6e-8bbfbf51d116.jpg)
 ![weather_app](https://user-images.githubusercontent.com/60518534/213766514-72c3b82b-2da0-4a46-8022-344d7f36b403.jpg)
 ![al_bayan](https://user-images.githubusercontent.com/60518534/213766525-25df2ec0-9667-4126-bc30-1d13f85877f3.jpg)
+
+![1674737028974](https://user-images.githubusercontent.com/60518534/214839590-db72c5f4-21d9-4e4f-b4f7-96ea6177f748.jpg)
+![1674737028960](https://user-images.githubusercontent.com/60518534/214839676-a2e1a86b-2a40-43f6-8e84-4df48f41727f.jpg)
